@@ -16,11 +16,11 @@ The United States Geological Survey (USGS) collects earthquake data from around 
 
 - **Legend:** A legend is included to provide context for the color scale used in the map, indicating different depth ranges.
 
-# Usage
+## Usage
 The map will be displayed with earthquake markers.
 Hover over a marker to view a tooltip with detailed information.
 The legend provides context for the color scale used in the map.
 
-# Libraries and APIs Used
+## Libraries and APIs Used
 Leaflet: An open-source JavaScript library for interactive maps.
 D3.js: A JavaScript library for data visualization.
